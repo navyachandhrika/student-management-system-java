@@ -19,7 +19,6 @@ Technologies Used
 * Java (Core Java)
 * OOP Concepts (Classes, Objects, Encapsulation)
 * Collections Framework (`ArrayList`)
-* File Handling (`FileWriter`, `BufferedReader`)
 * IntelliJ IDEA
 * Git & GitHub
 
